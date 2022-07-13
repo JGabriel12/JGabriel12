@@ -1,6 +1,6 @@
 ## 👋 Olá! Bem-vindo ao meu perfil do GitHub. :smile:
 
-💻 Sou João Gabriel Marinho, sou desenvolvedor back-end com foco em NodeJS. Atualmente trabalho como estágiario de TI na área de desenvolvimento web, e trabalho com projetos freelancer.
+💻 Sou João Gabriel Marinho, sou desenvolvedor back-end com foco em NodeJS. Atualmente trabalho na área de desenvolvimento web, e trabalho com projetos freelancer.
 
 📘 Eu estou atualmente estudando o framework NestJS para somar conhecimento na minha STACK de escolha <b> MERN Stack </b>.
 
