@@ -1,4 +1,4 @@
-## 👋 Olá! Bem-vindo ao meu perfil do GitHub. :smile:
+## 👋 Olá! Bem-vindo ao meu perfil do GitHub.
 
 👦 Sou João Gabriel Marinho, sou desenvolvedor back-end com foco em NodeJS. Atualmente trabalho na área de desenvolvimento web.
 
