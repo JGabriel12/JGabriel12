@@ -2,9 +2,13 @@
 
 👦 Sou João Gabriel Marinho, sou desenvolvedor back-end com foco em NodeJS. Atualmente trabalho na área de desenvolvimento web.
 
-📘 Eu estou atualmente estudando TypeScript e o framework NestJS para somar conhecimento na minha stack de escolha.
+📘 Eu estou atualmente me aprofundando na stack: NodeJS / Express / MongoDB, e conhecendo o framework NestJS para somar conhecimento na minha stack de escolha .
 
-💬 Meu primeiro contato com programação foi em 2015, ainda na escola. Em 2015, com 15 anos tive a oportunidade de participar de projetos com robótica e aprender um pouco de programação em blocos. Em 2018, quando entrei na faculdade de ciências da computação, foi quando fiquei admirado em como funciona a web. Por meio da Rocketseat, aprendi Javascript e amei todo esse ecossistema em volta da linguagem e desde então não parei mais de aprender as diversas tecnologias que são feitas por meio dessa linguagem.
+💬 Meu primeiro contato com programação foi ainda na escola. Em 2015, com 15 anos tive a oportunidade de participar de projetos com robótica e aprender um pouco de programação em blocos.
+
+💬 Em 2018, movido a curiosidade e visando entender melhor como funciona a área de TI, entrei na faculdade de ciências da computação, foi quando fiquei admirado em como funciona a web. Por meio de projetos conheci o JavaScript e amei todo esse ecossistema em volta da linguagem, e desde então não parei mais de aprender as diversas tecnologias que são feitas por meio dessa linguagem.
+
+💻 Em 2021 tive a oportunidade de aplicar meus conhecimentos na minha primeira experiência profissional, onde evolui muito como pessoa e aprimorei minhas software skills.
 
 <hr>
 
@@ -29,8 +33,9 @@
 
 ### 📊 GitHub Stats :
 
+
 <div>
-<a href="https://github.com/JGabriel12">
+<a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabriel12&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JGabriel12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
