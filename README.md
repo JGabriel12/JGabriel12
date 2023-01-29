@@ -2,7 +2,7 @@
 
 👦 Sou João Gabriel Marinho, sou desenvolvedor back-end com foco em NodeJS. Atualmente trabalho na área de desenvolvimento web.
 
-📘 Eu estou atualmente me aprofundando na stack: NodeJS / Express / MongoDB, e conhecendo o framework NestJS.
+📘 Eu estou atualmente me aprofundando na stack: NodeJS / Express / MongoDB e conhecendo o framework NestJS.
 
 💬 Meu primeiro contato com programação foi ainda na escola. Em 2015, com 15 anos tive a oportunidade de participar de projetos com robótica e aprender um pouco de programação em blocos.
 
