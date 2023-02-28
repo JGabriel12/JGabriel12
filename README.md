@@ -1,10 +1,6 @@
-## 👋 Olá! Bem-vindo ao meu perfil do GitHub.
+## 👋 Hello! Welcome to my GitHub profile.
 
-👦 Sou João Gabriel Marinho, sou desenvolvedor back-end com foco em NodeJS.
-
-💬 Movido a curiosidade e visando entender melhor como funciona a área de TI, entrei na faculdade de ciências da computação, foi quando fiquei admirado em como funciona a web. Por meio de projetos conheci o JavaScript e amei todo esse ecossistema em volta da linguagem, e desde então não parei mais de aprender as diversas tecnologias que são feitas por meio dessa linguagem.
-
-💻 Em 2021 eu tive a oportunidade de aplicar meus conhecimentos na minha primeira experiência profissional, onde evolui muito como pessoa e aprimorei minhas software skills.
+👦 I'm João Gabriel Marinho, I'm a back-end developer focused on NodeJS.
 
 <hr>
 
