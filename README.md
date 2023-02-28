@@ -1,6 +1,8 @@
 ## 👋 Hello! Welcome to my GitHub profile.
 
-👦 I'm João Gabriel Marinho, I'm a back-end developer focused on NodeJS.
+👦 I'm João Gabriel Marinho 
+
+👨‍💻 I'm a back-end developer focused on NodeJS.
 
 <hr>
 
